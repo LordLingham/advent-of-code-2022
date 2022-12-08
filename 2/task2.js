@@ -1,7 +1,5 @@
 const { example, input } = require("./input.js");
-
 const turns = input.split("\n");
-
 const resultScoreMap = {
     X: 0,
     Y: 3,
